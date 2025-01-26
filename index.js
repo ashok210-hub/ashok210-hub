@@ -8,4 +8,6 @@ function sayname(){
 function multiply(){
     console.log(`${age} is ${myname}`)
 }
-
+function newfeatureAdd(){
+    console.group('i love india');
+}
