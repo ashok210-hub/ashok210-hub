@@ -10,4 +10,5 @@ function multiply(){
 }
 function newfeatureAdd(){
     console.group('i love india');
+    console.log('new feature is a');
 }
