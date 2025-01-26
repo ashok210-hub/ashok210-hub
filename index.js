@@ -8,3 +8,5 @@ function sayname(){
 function ageAbove(){
     console.log('hello ashok is 18 above');
 };
+
+const father='ramratan';
